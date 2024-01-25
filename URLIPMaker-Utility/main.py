@@ -6,7 +6,7 @@ Created on Tue Jan 23 12:09:48 2024
 """
 
 def main():
-    print("Welcome to the IP Checker Maker!")
+    print("Welcome to the URLIPMaker-Util!")
 
     while True:
         ip = input("\nPlease enter an IP address (*.*.*.* format) or 'quit' to exit: ")

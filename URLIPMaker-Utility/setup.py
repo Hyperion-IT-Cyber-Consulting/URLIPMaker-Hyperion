@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='IPCheckerMaker',
+    name='URLIPMAKER-Util',
     version='1.0.0',
     packages=find_packages(),
     include_package_data=True,
@@ -10,7 +10,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'IPURLCheck:IPURLCheck:main',  # Adjust the path as necessary
+            'URLIPMaker-Util:URLIPMaker-Util:main',  # Adjust the path as necessary
         ],
     },
 )
