@@ -50,7 +50,7 @@ URLIPMaker-Util is a simple command-line tool that helps users generate URLs for
     AbuseIPDB
     Exit the Program:
     Type quit to exit the program.
-### example
+### Example
     $ python urlipmaker_util.py
     Welcome to the URLIPMaker-Util!
 
